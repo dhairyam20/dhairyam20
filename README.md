@@ -1,5 +1,4 @@
 ## Hi 👋, I am Dhairya Mehta
-
 💫 About Me:
 - 🔭 I’m currently working on AI , ML and Robotics projects
 - 🌱 I’m currently learning about core computer science subjects for GATE CS and DA exam
