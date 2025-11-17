@@ -1,11 +1,11 @@
-## Hi 👋, I am Dhairya Mehta
+## Hi 👋, I am Dhairya Mehta (CS Undergrad)
 💫 About Me:
 - 🔭 I’m currently working on AI , ML and Robotics projects
-- 🌱 I’m currently learning about core computer science subjects for GATE CS and DA exam
-- 💬 Ask me about: Web and App Dev , Cybersecurity , AI and ML
+- 🌱 I want to be a Researcher and Innovator...
+- 💬 Ask me about: Web and App Dev , Cybersecurity , AI and ML and Robotics
 - 👨‍💻 All of my projects are available at my Github Profile
 - 📫 How to reach me - Email : thedhairya38@gmail.com
-- ⚡ Fun fact: I am a very curious person.
+- ⚡ Fun fact: I am a very curious person
 
 
 
