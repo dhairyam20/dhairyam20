@@ -1,6 +1,6 @@
 ## Hi 👋, I am Dhairya Mehta (CS Undergrad)
 💫 About Me:
-- 🌱 Engineer , Reseracher and Entrepreneur...
+- 🌱 Engineer , Researcher and Entrepreneur...
 - 💬 Ask me about: Web and App Development , AI-ML , IOT and Robotics
 - 📫 How to reach me - Email : thedhairya38@gmail.com
 
